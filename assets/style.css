@@ -506,7 +506,7 @@ ul{
 /*Partner */
 #partner{
     background: url(pages/wordpress.jpg);
-    background-images: url(pages/wordpress.jpg);
+    background-image: url(pages/wordpress.jpg);
     padding: 20px 0 40px 0;
     
 }
